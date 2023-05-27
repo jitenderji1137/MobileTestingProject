@@ -20,7 +20,7 @@ As This Project was related to app testing, We need to test few featuresof app.
 
 
 ### [2. Cypress with Cucumber.][Cypress with Cucumber.]
-[Cypress with Cucumber.]:https://github-api-with-cypress.pages.dev/
+[Cypress with Cucumber.]:https://mobilettestingwithjava.pages.dev/
 <div align="center">
 <img src="https://user-images.githubusercontent.com/113350806/236555303-cb1da941-75b9-4eba-bf03-7ef5d444c470.png" alt="logo" width="100%" height="auto" />
 </div>
