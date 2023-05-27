@@ -6,7 +6,7 @@
 
 ## About This Project.
 
-As This Project was related to app testing, We need to test few featuresof app. 
+As This Project was related to app testing, We need to test few features of app. 
 
 
 ## Implemented with WebdriverIO
