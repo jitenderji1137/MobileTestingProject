@@ -14,7 +14,7 @@ As This Project was related to app testing, We need to test few features of app.
 ### [1. Report with WebdriverIO][Report with WebdriverIO]
 [Report with WebdriverIO]:https://mobilettestingwithjavascript.pages.dev/
 <div align="center">
-<img src="https://github.com/jitenderji1137/MobileTestingProject/assets/113350806/47e57e2d-6a55-400a-99df-1a5d2b8fae25" alt="logo" width="100%" height="auto" />
+<img src="https://github.com/jitenderji1137/MobileTestingProject/assets/113350806/2def7547-304c-4b24-a295-421fdf068e58" alt="logo" width="100%" height="auto" />
 </div>
 
 
