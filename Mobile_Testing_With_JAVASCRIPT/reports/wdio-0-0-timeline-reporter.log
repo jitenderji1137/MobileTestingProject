@@ -1,0 +1,192 @@
+{
+  "start": "2023-05-26T12:26:51.521Z",
+  "end": "2023-05-26T12:31:03.070Z",
+  "capabilities": {
+    "platform": "LINUX",
+    "webStorageEnabled": false,
+    "takesScreenshot": true,
+    "javascriptEnabled": true,
+    "databaseEnabled": false,
+    "networkConnectionEnabled": true,
+    "locationContextEnabled": false,
+    "warnings": {},
+    "desired": {
+      "platformName": "Android",
+      "deviceName": "jitender",
+      "automationName": "UiAutomator2",
+      "appPackage": "org.khanacademy.android",
+      "appActivity": "org.khanacademy.android.ui.library.MainActivity"
+    },
+    "platformName": "Android",
+    "deviceName": "fd117452",
+    "automationName": "UiAutomator2",
+    "appPackage": "org.khanacademy.android",
+    "appActivity": "org.khanacademy.android.ui.library.MainActivity",
+    "deviceUDID": "fd117452",
+    "deviceApiLevel": 31,
+    "platformVersion": "12",
+    "deviceScreenSize": "720x1600",
+    "deviceScreenDensity": 320,
+    "deviceModel": "V2029",
+    "deviceManufacturer": "vivo",
+    "pixelRatio": 2,
+    "statBarHeight": 56,
+    "viewportRect": {
+      "left": 0,
+      "top": 56,
+      "width": 720,
+      "height": 1498
+    },
+    "sessionId": "9f8c819e-9bb7-4530-9cb1-cd72a5045589"
+  },
+  "host": "127.0.0.1",
+  "port": 4723,
+  "baseUrl": "",
+  "framework": "mocha",
+  "duration": 251549,
+  "suites": [
+    {
+      "title": "Mobile App Testing",
+      "duration": 251147,
+      "start": "2023-05-26T12:26:51.531Z",
+      "end": "2023-05-26T12:31:02.678Z",
+      "tests": [
+        {
+          "title": "Explore",
+          "start": "2023-05-26T12:26:51.531Z",
+          "end": "2023-05-26T12:27:03.981Z",
+          "duration": 12450,
+          "state": "passed",
+          "screenshots": []
+        },
+        {
+          "title": "Bookmark",
+          "start": "2023-05-26T12:27:03.985Z",
+          "end": "2023-05-26T12:27:23.297Z",
+          "duration": 19312,
+          "state": "passed",
+          "screenshots": [
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104024482.jpeg"
+          ]
+        },
+        {
+          "title": "Go Back to Computer Science",
+          "start": "2023-05-26T12:27:23.300Z",
+          "end": "2023-05-26T12:27:40.257Z",
+          "duration": 16957,
+          "state": "passed",
+          "screenshots": [
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104043829.jpeg"
+          ]
+        },
+        {
+          "title": "Verify Bookmark",
+          "start": "2023-05-26T12:27:40.260Z",
+          "end": "2023-05-26T12:27:43.332Z",
+          "duration": 3072,
+          "state": "passed",
+          "screenshots": [
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104060738.jpeg"
+          ]
+        },
+        {
+          "title": "Clear All Bookmarks",
+          "start": "2023-05-26T12:27:43.334Z",
+          "end": "2023-05-26T12:27:55.029Z",
+          "duration": 11695,
+          "state": "passed",
+          "screenshots": [
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104063813.jpeg"
+          ]
+        },
+        {
+          "title": "Go to Explore and Tap on \"Life Skills\"",
+          "start": "2023-05-26T12:27:55.032Z",
+          "end": "2023-05-26T12:28:36.838Z",
+          "duration": 41806,
+          "state": "passed",
+          "screenshots": [
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104075499.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104076088.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104076547.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104077107.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104077556.jpeg"
+          ]
+        },
+        {
+          "title": "Verify Last Seen Topic",
+          "start": "2023-05-26T12:28:36.840Z",
+          "end": "2023-05-26T12:29:11.696Z",
+          "duration": 34856,
+          "state": "passed",
+          "screenshots": [
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104120201.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104121151.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104121837.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104124982.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104125439.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104126076.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104126533.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104127725.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104128183.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104128817.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104129281.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104130744.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104131391.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104132241.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104132701.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104133679.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104134122.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104140234.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104143134.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104143956.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104144420.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104145082.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104145543.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104146105.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104146541.jpeg"
+          ]
+        },
+        {
+          "title": "Arts_humanities",
+          "start": "2023-05-26T12:29:11.698Z",
+          "end": "2023-05-26T12:30:54.002Z",
+          "duration": 102304,
+          "state": "passed",
+          "screenshots": [
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104152201.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104180712.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104181224.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104195988.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104196708.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104236330.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104236832.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104241737.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104242205.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104245259.jpeg",
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104245719.jpeg"
+          ]
+        },
+        {
+          "title": "Close App",
+          "start": "2023-05-26T12:30:54.004Z",
+          "end": "2023-05-26T12:31:02.675Z",
+          "duration": 8671,
+          "state": "passed",
+          "screenshots": [
+            "C:\\Users\\trade\\OneDrive\\Documents\\MobileTestingProject\\Mobile_Testing_With_JAVASCRIPT\\reports\\file-1685104254658.jpeg"
+          ]
+        }
+      ],
+      "hooks": []
+    }
+  ],
+  "specs": [
+    "file:///C:/Users/trade/OneDrive/Documents/MobileTestingProject/Mobile_Testing_With_JAVASCRIPT/test/specs/example.e2e.js"
+  ],
+  "state": {
+    "passed": 9,
+    "failed": 0,
+    "skipped": 0
+  }
+}
